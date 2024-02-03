@@ -10,7 +10,7 @@
 
 &nbsp;
 - 🏠 I'm currently living in Bologna, Italy IT.
-- 📚 I'm a student in Automation Engineering.
+- 📚 I'm studying Automation Engineering as a student.
 - 💻 I'm currently working as a Junior Developer.
 - 🎯 I always like to explore and learn new things.
 
