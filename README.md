@@ -12,9 +12,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MrLostInTheInternet&show_icons=true" alt="MrLostInTheInternet" align="right" />
 </a>
 
-- :house: I'm currently living in Bologna, Italy IT.
-- :computer: I'm currently working as a Junior Developer and I'm a student in Automation Engineering.
-- :dart: I always like to explore and learn new things.
+&nbsp;
+- 🏠 I'm currently living in Bologna, Italy IT.
+- 📚 I'm a student in Automation Engineering.
+- 💻 I'm currently working as a Junior Developer.
+- 🎯 I always like to explore and learn new things.
+
+&nbsp;
+&nbsp;
 
 ## 🛠 Technologies and Tools
 
@@ -50,6 +55,10 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/ASP.NET-282C34?logo=dotnet&logoColor=512BD4" alt="ASP.NET logo" title="ASP.NET" height="25" />][tech_tools_anchor]
 
+
+&nbsp;
+&nbsp;
+
 ## 📖 What I am Currently Learning / Improving On
 
 <a name="learning-next"></a>
@@ -72,6 +81,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/HTMX-282C34?logo=html5&logoColor=E34F26" alt="HTMX logo" title="HTMX" height="25" />][learning_now_anchor]
 
+&nbsp;
+&nbsp;
+
 ## 💻 What I am Interested in Learning at Some Point
 
 [<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=000000" alt="Rust logo" title="Rust" height="25" />][learning_next_anchor]
@@ -80,16 +92,28 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/OCaml-282C34?logo=ocaml&logoColor=EC6813" alt="OCaml logo" title="OCaml" height="25" />][learning_next_anchor]
 
-### 📌 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLostInTheInternet&layout=compact)
 
-## 🔍 Where to Find Me
+&nbsp;
+&nbsp;
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/eugen-iofciu-vasile-17a899196)
-&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/mr_euz)
-&nbsp;
-[<img src="https://img.shields.io/badge/YouTube-282C34?logo=youtube&logoColor=FF0000" alt="YouTube logo" title="YouTube" height="25" />](https://www.youtube.com/@eugeniofciuvasile1818)
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <h3>🔍 Where to Find Me</h3>
+        <a href="https://www.linkedin.com/in/eugen-iofciu-vasile-17a899196"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
+        &nbsp;
+        <a href="https://www.instagram.com/mr_euz"><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram logo" title="Instagram" height="25" /></a>
+        &nbsp;
+        <a href="https://www.youtube.com/@eugeniofciuvasile1818"><img src="https://img.shields.io/badge/YouTube-282C34?logo=youtube&logoColor=FF0000" alt="YouTube logo" title="YouTube" height="25" /></a>
+      </td>
+      <td valign="top">
+        <h3>📌 Most Used Languages:</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLostInTheInternet&layout=compact" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 [tech_tools_anchor]: #--hi--
 [learning_now_anchor]: #learning-now
