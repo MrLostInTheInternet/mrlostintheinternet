@@ -1,11 +1,7 @@
 # 👋 Hi there, I'm Eugen Iofciu Vasile
 <p align="left">
-  <a href="https://github.com/MrLostInTheInternet">
-    <img src="https://komarev.com/ghpvc/?username=MrLostInTheInternet" alt="page views">
-  </a>
-  <a href="https://github.com/MrLostInTheInternet?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MrLostInTheInternet?color=green&logo=github">
-  </a>
+  <a href="https://github.com/MrLostInTheInternet"><img src="https://komarev.com/ghpvc/?username=MrLostInTheInternet" alt="page views"></a>
+  <a href="https://github.com/MrLostInTheInternet?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MrLostInTheInternet?color=green&logo=github"></a>
 </p>
 
 <a href="stats">
