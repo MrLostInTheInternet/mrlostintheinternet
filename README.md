@@ -5,7 +5,7 @@
 </p>
 
 <a href="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrLostInTheInternet&show_icons=true" alt="MrLostInTheInternet" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrLostInTheInternet&show_icons=true&theme=dark#gh-dark-mode-only" alt="MrLostInTheInternet" align="right" />
 </a>
 
 &nbsp;
@@ -105,7 +105,7 @@
       </td>
       <td valign="top">
         <h3>📌 Most Used Languages:</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLostInTheInternet&layout=compact" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLostInTheInternet&layout=compact&langs_count=10&custom_title=My%20Top%20Languages&card_width=400&title_color=ffffff&text_color=ffffff&hide_border=true&theme=dark#gh-dark-mode-only" alt="Top Langs"/>
       </td>
     </tr>
   </table>
